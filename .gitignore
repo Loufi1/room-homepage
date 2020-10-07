@@ -17,3 +17,5 @@
 .prettierignore
 
 .idea/
+
+node_modules/
